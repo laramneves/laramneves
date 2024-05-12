@@ -6,6 +6,8 @@ I have a master degree in civil engineering but i discover that programing was m
 
 I'm a nature🌱 and art passionate 🎨.
 
+![Lara's stats](https://github-readme-stats.vercel.app/api?username=laramneves&theme=dark&show_icons=true)
+
 
 
 
