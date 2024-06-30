@@ -5,7 +5,7 @@
 🌷 I'm a nature lover.<br/>
 🎨 I'm current working on expading my technical skills and some personal projects.<br/>
 🎓 My journey into the world of technology began with the decision to join an intensive full-stack development bootcamp. I graduated from Code for All in April of this year.<br/>
-💭 Currently learning React and also Phyton!<br/>
+💭 Currently learning React and Phyton!<br/>
 📧 You can reach me using: lara.mn@gmail.com
 
 <h3 align="left">Connect with me:</h3>
