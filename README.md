@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lara</h1>
 <h3 align="center">A passionate FullStack Developer sharing my journey and learnings in tech</h3>
 
-👩🏻‍🎓 I have a master degree in engineering, but my passion for tech drove me to pursue my dream and become a full-stack developer.<br/>
+👩🏻‍🎓 I have a master degree in civil engineering, but my passion for tech drove me to pursue my dream and become a full-stack developer.<br/>
 🌷 I'm a nature lover.<br/>
 🎨 I'm current working on expading my technical skills and some personal projects.<br/>
 🎓 My journey into the world of technology began with the decision to join an intensive full-stack development bootcamp. I graduated from Code for All in April of this year.<br/>
